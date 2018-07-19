@@ -13,7 +13,9 @@ Todo app - REST
  - ```git clone git@github.com:dhruvsingh/todo.git```
  - make a virtual environment (ensure it is python3)
  - activate virtual environment
- - ```$ cd todo/todo```
+ - ```$ cd todo```
+ - ```$ pip install -r requirements.txt```
+ - ```$ cd todo```
  - ```$ ./manage.py migrate```
  - ```$ ./manage.py runserver```
  - browse to http://127.0.0.1/api/task/ to view list of all tasks
