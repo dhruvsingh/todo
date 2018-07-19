@@ -11,6 +11,8 @@ Todo app - REST
 
 # how to run
  - git clone git@github.com:dhruvsingh/todo.git
+ - make a virtual environment (ensure it is python3)
+ - activate virtual environment
  - cd todo/todo
  - ./manage.py migrate
  - ./manage.py runserver
