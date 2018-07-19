@@ -3,7 +3,7 @@
 from django.utils.translation import gettext_lazy as _
 
 NOT_DONE_STATE = 1
-DONE_STATE = 1
+DONE_STATE = 2
 
 DONE_TEXT = "Done"
 NOT_DONE_TEXT = "Not Done"
