@@ -29,3 +29,7 @@ Todo app - REST
          - list all todos
          - delete todo1
          - list all todos
+
+# scope for improvement
+ - add token authentication; so that the API is not public
+ - read on bash to print the api output on the terminal screen
